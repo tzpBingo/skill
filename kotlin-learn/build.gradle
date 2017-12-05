@@ -1,0 +1,30 @@
+group 'tiiis.cn'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    repositories {
+        //下面的dependencies中，插件的地址
+        jcenter()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.0.4"
+    }
+}
+
+//标识Java与Kotlin工程，存放着与编译相关的一系列指令集
+apply plugin: 'java'
+apply plugin: 'kotlin'
+
+//标识Java的版本，这里没有使用到
+sourceCompatibility = 1.8
+
+repositories {
+    //module中的依赖的地址
+    jcenter()
+}
+
+//Gradle中最重要的功能--依赖管理
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib:1.0.4"
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}

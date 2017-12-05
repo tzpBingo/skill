@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+java-learn/src/main/
+java-learn/target/
+kotlin-learn/src/main/
+kotlin-learn/src/test/java/
+kotlin-learn/target/
+scala-learn/src/main/
+scala-learn/src/test/java/
+scala-learn/target/
+/.idea/
