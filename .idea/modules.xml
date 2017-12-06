@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/go-learn/go-learn.iml" filepath="$PROJECT_DIR$/go-learn/go-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-learn/java-learn.iml" filepath="$PROJECT_DIR$/java-learn/java-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-learn/kotlin-learn.iml" filepath="$PROJECT_DIR$/kotlin-learn/kotlin-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nodejs-learn/nodejs-learn.iml" filepath="$PROJECT_DIR$/nodejs-learn/nodejs-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/python-learn/python-learn.iml" filepath="$PROJECT_DIR$/python-learn/python-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-learn/scala-learn.iml" filepath="$PROJECT_DIR$/scala-learn/scala-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tiiis.iml" filepath="$PROJECT_DIR$/.idea/tiiis.iml" />
