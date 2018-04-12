@@ -5,10 +5,16 @@
       <list>
         <option value="$PROJECT_DIR$/java-learn/pom.xml" />
         <option value="$PROJECT_DIR$/scala-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn/hystrix-dashboard/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/kotlin-learn/target" />
+    <output url="file://$PROJECT_DIR$/target" />
   </component>
 </project>

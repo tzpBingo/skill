@@ -22,3 +22,9 @@ scala-learn/target/
 /nodejs-learn/nodejs-learn.iml
 /go-learn/go-learn.iml
 /java-learn/java-learn.iml
+/springboot-learn/.mvn/
+/springboot-learn/springboot-learn.iml
+/springboot-learn/target/
+/springboot-learn/mvnw.cmd
+/springboot-learn/.gitignore
+/springboot-learn/mvnw

@@ -6,13 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="hystrix-dashboard" />
         <module name="java-learn" />
+        <module name="ribbon-consumer" />
         <module name="scala-learn" />
+        <module name="springboot-learn" />
+        <module name="springcloud-learn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="java-learn" target="1.5" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="java-learn" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
       <module name="scala-learn" target="1.5" />
+      <module name="springboot-learn" target="1.8" />
+      <module name="springcloud-learn" target="1.5" />
+      <module name="springcloudlearn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

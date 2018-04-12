@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/springcloud-learn/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-learn/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/go-learn/go-learn.iml" filepath="$PROJECT_DIR$/go-learn/go-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-learn/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-learn/java-learn.iml" filepath="$PROJECT_DIR$/java-learn/java-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-learn/kotlin-learn.iml" filepath="$PROJECT_DIR$/kotlin-learn/kotlin-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/nodejs-learn/nodejs-learn.iml" filepath="$PROJECT_DIR$/nodejs-learn/nodejs-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/python-learn/python-learn.iml" filepath="$PROJECT_DIR$/python-learn/python-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/springcloud-learn/ribbon-consumer/ribbon-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-learn/scala-learn.iml" filepath="$PROJECT_DIR$/scala-learn/scala-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-learn/springboot-learn.iml" filepath="$PROJECT_DIR$/springboot-learn/springboot-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn/springcloud-learn.iml" filepath="$PROJECT_DIR$/springcloud-learn/springcloud-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tiiis.iml" filepath="$PROJECT_DIR$/.idea/tiiis.iml" />
     </modules>
   </component>
