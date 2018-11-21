@@ -16,6 +16,7 @@ public class Test {
 	}
 
 	private static Provider DEFAULT_PROVIDER = new Provider() {
+		@Override
 		public Service newService() {
 			return new Service() {
 				@Override
@@ -27,6 +28,7 @@ public class Test {
 	};
 
 	private static Provider COMP_PROVIDER = new Provider() {
+		@Override
 		public Service newService() {
 			return new Service() {
 				@Override
@@ -38,6 +40,7 @@ public class Test {
 	};
 
 	private static Provider ARMED_PROVIDER = new Provider() {
+		@Override
 		public Service newService() {
 			return new Service() {
 				@Override
