@@ -13,11 +13,11 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.google.collections</groupId>
-            <artifactId>google-collections</artifactId>
-            <version>${google-collections.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.google.collections</groupId>-->
+            <!--<artifactId>google-collections</artifactId>-->
+            <!--<version>${google-collections.version}</version>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -136,6 +136,13 @@
             </exclusions>
 
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>25.1-jre</version>
+        </dependency>
+
 
 
     </dependencies>
